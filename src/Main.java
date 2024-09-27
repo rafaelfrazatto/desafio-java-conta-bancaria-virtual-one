@@ -22,7 +22,7 @@ public class Main {
                 ********************************""".formatted(dadosNome, dadosConta, dadosSaldo);
         String menu = """
                 
-                Operações
+                **** Operações ****
                 
                 1 - Consultar saldos
                 2 - Depositar valor
